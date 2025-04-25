@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @xumingyu16
-- 👀 I’m interested in AI and I am currently working on test time training related research at ByteDance.
+- 👋 Hi, I’m Mingyu Xu.
+- 👀 I’m interested in AI and I am currently working on test time training related research at ByteDance. I hope AI can become increasingly intelligent and help more and more people.
 - I received my bachelor's degree in computational mathematics from the School of Mathematical Sciences at Peking University and received my master's degree in pattern recognition from the Institute of Automation, Chinese Academy of Sciences.
 - Here are some projects I have worked on:
 - **[ACL2025 Findings]** [ShortGPT: Layers in Large Language Models are More Redundant Than You Expect. ](https://arxiv.org/pdf/2403.03853) Xin Men*, **Mingyu Xu***, Qingyu Zhang*, Qianhao Yuan*, Bingning Wang, Hongyu Lin, Yaojie Lu, Xianpei Han, Weipeng Chen
