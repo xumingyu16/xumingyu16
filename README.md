@@ -1,7 +1,12 @@
 - 👋 Hi, I’m Mingyu Xu.
 - 👀 I’m interested in AI and I am currently working on test time training related research at ByteDance. I hope AI can become increasingly intelligent and help more and more people.
 - I received my bachelor's degree in computational mathematics from the School of Mathematical Sciences at Peking University and received my master's degree in pattern recognition from the Institute of Automation, Chinese Academy of Sciences.
+- I am very interested in achieving AGI and I hope as many people as possible can enjoy the benefits brought by artificial intelligence. I will start from the pretraining, working step by step towards achieving true intelligence.
+- My MBTI is INTP and I don't really enjoy social activities, but please feel free to contact me if you have any interesting questions. Currently, my email is xumingyu16.gmail (Of course, as I am an INTP, I usually don't check my email frequently， hh).
+- Other hobbies include Sid Meier's Civilization VI, Hearts of Iron IV and Europa Universalis IV. These games are really fun. I used to play 500 hours per semester. And when I was a child, I liked Romance of the Three Kingdoms XI.
+  
 - Here are some projects I have worked on:
+- **[ICML2025]** [KV Shifting Attention Enhances Language Modeling. ](https://arxiv.org/pdf/2411.19574) **Mingyu Xu**, Wei Cheng, Bingning Wang, Weipeng Chen
 - **[ACL2025 Findings]** [ShortGPT: Layers in Large Language Models are More Redundant Than You Expect. ](https://arxiv.org/pdf/2403.03853) Xin Men*, **Mingyu Xu***, Qingyu Zhang*, Qianhao Yuan*, Bingning Wang, Hongyu Lin, Yaojie Lu, Xianpei Han, Weipeng Chen
 - **[NeurIPS2024]** [Base of RoPE Bounds Context Length](https://openreview.net/pdf?id=EiIelh2t7S) **Mingyu Xu***, Xin Men*, Bingning Wang*, Qingyu Zhang, Hongyu Lin, Xianpei Han
 - **[ICASSP2024]** [Pseudo Labels Regularization for Imbalanced Partial-Label Learning](https://arxiv.org/pdf/2303.03946) **Mingyu Xu**, Zheng Lian, Bin Liu, Zerui Chen, Jianhua Tao
