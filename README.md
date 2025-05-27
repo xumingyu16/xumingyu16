@@ -6,6 +6,7 @@
 - Other hobbies include Sid Meier's Civilization VI, Hearts of Iron IV and Europa Universalis IV. These games are really fun. I used to play 500 hours per semester. And when I was a child, I liked Romance of the Three Kingdoms XI.
   
 - Here are some projects I have worked on:
+- **[Arxiv]**[Understanding Transformer from the Perspective of Associative Memory](https://arxiv.org/pdf/2505.19488) Shu Zhong*, **Mingyu Xu***, Tenglong Ao*, Guang Shi. **And I really like this.** It endows the Transformer with the expressive power to break through **$$TC^0$$**.
 - **[ICML2025]** [KV Shifting Attention Enhances Language Modeling. ](https://arxiv.org/pdf/2411.19574) **Mingyu Xu**, Wei Cheng, Bingning Wang, Weipeng Chen
 - **[ACL2025 Findings]** [ShortGPT: Layers in Large Language Models are More Redundant Than You Expect. ](https://arxiv.org/pdf/2403.03853) Xin Men*, **Mingyu Xu***, Qingyu Zhang*, Qianhao Yuan*, Bingning Wang, Hongyu Lin, Yaojie Lu, Xianpei Han, Weipeng Chen
 - **[NeurIPS2024]** [Base of RoPE Bounds Context Length](https://openreview.net/pdf?id=EiIelh2t7S) **Mingyu Xu***, Xin Men*, Bingning Wang*, Qingyu Zhang, Hongyu Lin, Xianpei Han
