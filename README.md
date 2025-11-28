@@ -17,6 +17,7 @@ When ChatGPT appeared, I see the dawn of general artificial intelligence and joi
 - [8]**[ACMMM2023workshop]** [Humor detection system for MuSE 2023: contextual modeling, pesudo labelling, and post-smoothing](https://dl.acm.org/doi/pdf/10.1145/3606039.3613107)
   **Mingyu Xu**, Shun Chen, Zheng Lian, Bin Liu
 - [9]**[ACMMM2021workshop]** [Multimodal Emotion Recognition and Sentiment Analysis via Attention Enhanced Recurrent Model](https://dl.acm.org/doi/pdf/10.1145/3475957.3484456) Licai Sun*, **Mingyu Xu***, Zheng Lian, Bin Liu, Jianhua Tao, Meng Wang, Yuan Cheng
+- [10]**[TPAMI 2025]** [IRNet: Iterative Refinement Network for Noisy Partial Label Learning](https://arxiv.org/pdf/2211.04774) Zheng Lian, **Mingyu Xu**, Lan Chen, Licai Sun, Bin Liu, Lei Feng, Jianhua Tao
 
 
 - My MBTI is INTP and I don't really enjoy social activities, but please feel free to contact me if you have any interesting questions. Currently, my email is xumingyu16.gmail (Of course, as I am an INTP, I usually don't check my email frequently， hh).
